@@ -2,13 +2,8 @@ import unittest
 
 
 class FizzBuzzTest(unittest.TestCase):
-
-    # add your tests here - modify however you want
-    def test_one(self):
-        pass
-
-    def test_two(self):
-        pass
+    def test_multiple_3_should_return_fizz(self):
+        self.assertEqual(FizzBuzz(3), "fizz”)
 
 
 if __name__ == '__main__':
