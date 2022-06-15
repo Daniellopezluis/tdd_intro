@@ -1,2 +1,5 @@
 def fizzfuzz(number):
-    return "fizz"
+    if number % 3 == 0:
+        return "fizz"
+
+    return ""
