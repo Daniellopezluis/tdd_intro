@@ -1,8 +1,8 @@
 # FizzBuzz
-FizzBuzz is one of the most famous coding exercises for beginners. It is a simple exercise but an excellent one to start learning the TDD flow with.
+FizzBuzz is one of the most famous coding exercises for beginners. It is a simple exercise, but an excellent one to start learning the TDD flow with.
 
 ## Requirements
-Write a “fizzBuzz” method that accepts a **number** as input and returns it as a **String**.
+Write a “FizzBuzz” method that accepts a **number** as input and returns it as a **String**.
 
 1. For multiples of three return “Fizz” instead of the number
 
